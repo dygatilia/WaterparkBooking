@@ -81,7 +81,7 @@
                             Sign into <span class="font-extrabold text-indigo-600">Account</span>
                         </h2>
                         <h2 class="mt-2 text-center text-l font-extrabold text-gray-500">
-                            ADMIN ONLY
+                            ADMIN
                         </h2>
                     </div>
                     <form class="mt-8 space-y-6" action="<%=request.getContextPath()%>/UserController" method="POST">
