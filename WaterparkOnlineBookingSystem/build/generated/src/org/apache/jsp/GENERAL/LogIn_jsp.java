@@ -65,7 +65,7 @@ public final class LogIn_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("            <div class=\"container px-4 mx-auto flex flex-wrap items-center justify-between\">\n");
       out.write("                <div class=\"w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start\">\n");
       out.write("                    <a class=\"text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase text-white\" href=\"MainPage.jsp\">\n");
-      out.write("                        HOME\n");
+      out.write("                        HOMEEEEEEEEEEE\n");
       out.write("                    </a>\n");
       out.write("         \n");
       out.write("                </div>\n");
