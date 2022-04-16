@@ -1,0 +1,22 @@
+SMAP
+CustSettings_jsp.java
+JSP
+*S JSP
+*F
++ 0 CustSettings.jsp
+CUSTOMER/CustSettings.jsp
+*L
+5,74:45
+79:119,3
+80,47:122
+127,2:170
+128,14:172
+142:186,3
+143,10:189
+153:199,3
+154,7:202
+161:209,3
+162,3:212
+165:215,3
+166,324:218
+*E
